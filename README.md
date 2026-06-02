@@ -1,4 +1,4 @@
-# My-portfoilo
+# My-portfolio
 
 Hi, i'm Amruta
 
@@ -15,5 +15,5 @@ BCA Graduate
 -student Management system
 -Library Management system
 
-#My Portfolio
-Projects and programs created during my BCA journey
+
+
