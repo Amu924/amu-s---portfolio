@@ -1,19 +1,27 @@
-# My-portfolio
+# Hi, I'm Amruta 👋
 
-Hi, i'm Amruta
+🎓 BCA Graduate
 
-##skills
--java
--HTML
--CSS
--MySQL
+💻 Interested in Cloud Computing, AWS, Linux and DevOps.
 
-##Education
-BCA Graduate
+🌱 Currently learning Linux and AWS.
 
-##Projects
--student Management system
--Library Management system
+🎯 My goal is to build practical projects
+and start my career in the IT industry.
+
+## Skills I'm Learning
+- Linux
+- AWS
+- Networking
+- Git and GitHub
+- DevOps
+
+## Projects
+Coming soon!
+
+## Connect With Me
+- GitHub: @Amu924
+
 
 
 
